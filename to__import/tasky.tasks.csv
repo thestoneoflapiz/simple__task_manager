@@ -1,0 +1,2 @@
+_id,type_id,title,description,assigned,order,created_at,created_by,deleted_at,deleted_by
+663cb29bae5029a08e9807a1,1,first plan of 2024,MY DESCRIPTION,663cb24e6b59999d9244aa0e,1,2024-05-09T11:25:15.457Z,Superadmin,2024-05-09T11:39:31.215Z,superadmin

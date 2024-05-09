@@ -1,0 +1,5 @@
+_id,username,name,password,created_at,created_by,role
+65dc3a5ddb7133a0107869a9,superadmin,Superadmin,$2a$12$dyqdRh9DX/ropeHF7eyWVOGgJd1RQaWfnV17gWUhb0fUbl3OocgG6,2024-02-26 15:14:37,system,superadmin
+663cb24e6b59999d9244aa0e,samuel_jackson00,Samuel Jackson,$2a$12$dyqdRh9DX/ropeHF7eyWVOGgJd1RQaWfnV17gWUhb0fUbl3OocgG6,2024-02-26 15:14:37,system,superadmin
+663cb2606b59999d9244aa0f,anna_loves_fruits1009,Anna Banana,$2a$12$dyqdRh9DX/ropeHF7eyWVOGgJd1RQaWfnV17gWUhb0fUbl3OocgG6,2024-02-26 15:14:37,system,superadmin
+663cb2876b59999d9244aa10,dearLovingBrother,Jamie Lannister,$2a$12$dyqdRh9DX/ropeHF7eyWVOGgJd1RQaWfnV17gWUhb0fUbl3OocgG6,2024-02-26 15:14:37,system,superadmin
